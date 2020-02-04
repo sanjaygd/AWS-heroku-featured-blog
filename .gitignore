@@ -1,0 +1,9 @@
+venv/
+corey_blog/__pycache__/
+corey_blog/blog/migrations/
+corey_blog/blog/__pycache__/
+.vscode/
+corey_blog/user/migrations/
+corey_blog/user/__pycache__/
+corey_blog/user/tests.py
+corey_blog/corey_blog/__pycache__/
